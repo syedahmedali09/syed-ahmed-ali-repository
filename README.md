@@ -51,7 +51,7 @@ class Car():
 this is goolge [GOOLGE](https://www.google.com).
 ```
 this is goolge [GOOLGE](https://www.google.com).
-my piaic portal [ PORTAL OF SYED AHMED ALI[(https://portal.piaic.org/onlinecourses/AIC/5d863ed66148ea00175fa2fb/lesson/5d8e3fa48c92b10017fedc50/topic/5d8e401f68369f668cbea49c)
+my piaic portal [ PORTAL OF SYED AHMED ALI](https://portal.piaic.org/onlinecourses/AIC/5d863ed66148ea00175fa2fb/lesson/5d8e3fa48c92b10017fedc50/topic/5d8e401f68369f668cbea49c)
 
 
 
