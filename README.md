@@ -6,4 +6,4 @@
 ***all bold and italic***
 __this is bold text__
 this is __marke__ text
-this is 'quote' of file
+this is ' quote ' of file
