@@ -55,9 +55,6 @@ class Car():
         
     def getBatterySize(self):
         print(f"the size of your  car bettery is{self.battery}"
-       
-[**GOOLGE**](https://www.google.com)
-this is goolge [GOOLGE](https://www.google.com).
 ```
 this is goolge [GOOLGE](https://www.google.com).
 
