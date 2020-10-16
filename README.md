@@ -1,16 +1,25 @@
 # syed-ahmed-ali-repository
 ** this is bold text**
+
 *this is italic text*
+
 # heading
+
 ~~this is strikethrough~~
+
 ***all bold and italic***
+
 __this is bold text__
+
 this is __marke__ text
+
 this is  `quote `of file
+
 [04:01 AM] Commit: `Not all refs have been pushed.`
 
 `[04:01 AM] Commit: Not all refs have been pushed.
 [04:01 AM] Commit: Not all refs have been pushed.`
+
 this is github site [syedahmedali](https://github.com/syedahmedali09)
 
 ```
@@ -51,6 +60,7 @@ class Car():
 this is goolge [GOOLGE](https://www.google.com).
 ```
 this is goolge [GOOLGE](https://www.google.com).
+
 my piaic portal [ PORTAL OF SYED AHMED ALI](https://portal.piaic.org/onlinecourses/AIC/5d863ed66148ea00175fa2fb/lesson/5d8e3fa48c92b10017fedc50/topic/5d8e401f68369f668cbea49c)
 
 
